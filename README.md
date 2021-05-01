@@ -11,16 +11,16 @@ These libraries are required (they can all be installed through the library mana
 
 * NTPClient
 
-![Screenshot](screenshot.png)
+![Screenshot](screen/ntpClient.PNG)
 * Arduino_JSON
 
-![Screenshot](screenshot.png)
+![Screenshot](screen/Arduino_JSON.PNG)
 * Adafruit_GFX
 
-![Screenshot](screenshot.png)
+![Screenshot](screen/AdafruitGFX.PNG)
 * AdafruitST7735
 
-![Screenshot](screenshot.png)
+![Screenshot](scree/AdafruitST7735.PNG)
 
 
 
@@ -79,9 +79,9 @@ Replace where you see the fields filled in with "x" with the values ​​indica
 If you have a 3D printer you can make the case that contains the entire project.
 The 3d pieces to be printed are 2: the case and the lid that closes it.
 
-![Screenshot](screenshot.png)
+![Screenshot](screen/case.PNG)
 
-![Screenshot](screenshot.png)
+![Screenshot](screen/coperchio.PNG
 
 ## Contributing
 Thanks to me.
