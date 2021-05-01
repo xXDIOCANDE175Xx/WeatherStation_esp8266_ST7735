@@ -26,7 +26,7 @@ These libraries are required (they can all be installed through the library mana
 
 ## Configuration
 
-```arduino
+```c++
 //-----------------Wifi Settings---------------------------------
 const char* ssid = "xxxxxxxxxx"; //SSID 
 const char* password = "xxxxxxx";//Password
