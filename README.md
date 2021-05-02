@@ -1,7 +1,7 @@
 # WeatherStation with esp8266 and display ST7735
 
 This project is a solution to have a real time weather station in a really small cube. It uses the API provided by OpenWeatherMap and requires a WiFi internet connection.  
-For this guide i use NodeMCU v1.0 shield.
+For this guide i use NodeMCU v1.0 shield and the display ST7735 TFT 1.44" 128x128.
 
 ![Screenshot](screen/screenDisplay.jpg)
 
