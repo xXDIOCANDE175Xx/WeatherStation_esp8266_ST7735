@@ -3,6 +3,8 @@
 This project is a solution to have a real time weather station in a really small cube. It uses the API provided by OpenWeatherMap and requires a WiFi internet connection.  
 For this guide i use NodeMCU v1.0 shield.
 
+![Screenshot](screen/screenDisplay.jpg)
+
 ## Requirements
 
 Use this [link](https://github.com/esp8266/Arduino) to install the esp8266 board in the Arduino IDE.
