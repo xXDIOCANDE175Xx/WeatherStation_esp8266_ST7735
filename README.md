@@ -20,7 +20,7 @@ These libraries are required (they can all be installed through the library mana
 ![Screenshot](screen/AdafruitGFX.PNG)
 * AdafruitST7735
 
-![Screenshot](scree/AdafruitST7735.PNG)
+![Screenshot](screen/AdafruitST7735.PNG)
 
 
 
@@ -81,7 +81,7 @@ The 3d pieces to be printed are 2: the case and the lid that closes it.
 
 ![Screenshot](screen/case.PNG)
 
-![Screenshot](screen/coperchio.PNG
+![Screenshot](screen/coperchio.PNG)
 
 ## Contributing
 Thanks to me.
