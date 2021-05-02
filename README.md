@@ -27,7 +27,7 @@ These libraries are required (they can all be installed through the library mana
 
 
 ## Configuration
-
+Go on [https://home.openweathermap.org/api_keys](https://home.openweathermap.org/api_keys), register and copy the API key into your Arduino code.
 ```c++
 //-----------------Wifi Settings---------------------------------
 const char* ssid = "xxxxxxxxxx"; //SSID 
