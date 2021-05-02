@@ -85,3 +85,5 @@ The 3d pieces to be printed are 2: the case and the lid that closes it.
 
 ## Contributing
 Thanks to me.
+## Property and licences
+This project is owned by xxDIOCANDExx
